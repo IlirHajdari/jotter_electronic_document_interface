@@ -38,5 +38,14 @@ J.E.D.I is a text editor that runs in your browser! The application is a Progres
   This application can also be installed onto the users computer, enabling for use without an internet connection.
 
   You will find a screenshot of the application below:
-  ![screenshot)(./client/src/images
-  
+  ![screenshot)(./client/src/images/JEDI.png)
+
+  ## Try out the deployed version below!
+
+  [Give this link a click to try out the app!](https://j-e-d-i-a588d6870c22.herokuapp.com/)
+
+
+  ## Want to contact me?
+
+  If you have any questions about this application, shoot me an email!
+  -Email: ilir.hajdari111@gmail.com
