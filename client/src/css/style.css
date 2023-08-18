@@ -33,8 +33,12 @@ h1 {
   letter-spacing: 0.9px;
 }
 
+.nav-btn,
 #navbar h1 {
-  flex-grow: 1;
+  flex: 1;
+}
+
+#navbar h1 {
   text-align: center;
 }
 
