@@ -34,6 +34,14 @@ module.exports = () => {
         start_url: "./",
         publicPath: "./",
         crossorigin: "use-credentials",
+        icons: [
+          {
+            src: path.resolve("src/images/logo.png"),
+            sizes: [48, 96, 128, 192, 256, 384, 512],
+            type: "image/png",
+            purpose: "any maskable",
+          },
+        ],
       }),
       new InjectManifest({
         swSrc: "./src-sw.js",
