@@ -18,6 +18,8 @@ body {
 
 h1 {
   font-size: 22px;
+  text-align: center;
+  flex-grow: 1;
 }
 
 #navbar {
@@ -33,15 +35,15 @@ h1 {
   letter-spacing: 0.9px;
 }
 
-.nav-btn,
-#navbar h1 {
+.nav-btn {
   flex: 1;
 }
 
 #navbar h1 {
   text-align: center;
+  flex-grow: 1;
+  margin-left: 20%;
 }
-
 .navbar-brand img {
   padding-top: 10px;
 }
