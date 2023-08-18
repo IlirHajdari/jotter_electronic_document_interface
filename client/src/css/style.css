@@ -18,7 +18,6 @@ body {
 
 h1 {
   font-size: 22px;
-  text-align: center;
 }
 
 #navbar {
@@ -32,6 +31,11 @@ h1 {
   font-size: 22px;
   font-weight: 550;
   letter-spacing: 0.9px;
+}
+
+#navbar h1 {
+  flex-grow: 1;
+  text-align: center;
 }
 
 .navbar-brand img {
